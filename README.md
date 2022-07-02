@@ -16,6 +16,8 @@ To install the project simply install all neccesary NPM packages using npm -i
 ## Usage
 To use the application all that is neccesary is to run the index.js file with node and answer the prompts that render in the console.
 
+https://user-images.githubusercontent.com/101996599/176347018-c9983434-7fa4-4cb7-98a6-d22ad737d396.mp4
+
 ## License
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
